@@ -1,0 +1,31 @@
+:root {
+ --navsize:16px;
+ --herotextsize:40px;
+ --logosize:29px;
+ --toolsize:20px;
+ --toolsubt:15px;
+ --celltittle:33px;
+ --cellsubt:18px;
+ --greentitle:17px;
+ --greensubt:14px;
+ --greenlast:30px;
+ --wdgtwht:25px;
+ --marktitle:24px;
+ --lsttitle:30px;
+ --xssubtitle:13px;
+ --mainclr: #1090CB;
+ --toolclr1:#EFEAFF;
+ --toolclr2:#ECFFDA;
+ --toolclr3:#DAE6FF;
+ --toolclr4:#FFE5DA;
+ --greensmile:#08D3BB;
+ --purplesmile:#9208D3;
+ --descclr:#5C5C5C;
+ --clr:#fff;
+ --zeroclr:#000;
+ --heroclr:#1090CB1A;
+ --greyclr:#969696;
+ --br:#C7C7C7;
+ 
+ 
+}
