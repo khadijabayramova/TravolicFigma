@@ -115,12 +115,14 @@ body {
   line-height: 48px;
   margin-top: 29px;
   margin-bottom: 31px;
+  width: 100%;
 }
 .purpleStick p {
   font-size: var(--toolsize);
   font-weight: 400;
   line-height: 40px;
   margin-bottom: 61px;
+  width: 100%;
 }
 .purpleStick button {
   border: 1px solid #1090cb;
@@ -137,7 +139,7 @@ body {
 /* apps */
 .purplenapps {
   display: flex;
-  gap: 200px;
+  gap: 120px;
 }
 .webapp {
   display: flex;
@@ -162,7 +164,7 @@ body {
 }
 .apps12{
   display: flex;
-  gap: 50px;
+  gap: 80px;
   
 }
 .apps34{
@@ -175,7 +177,7 @@ body {
   gap: 55px;
  margin-top: 10px;
   height: fit-content;
-  padding: 65px 91px 95px 61px;
+  padding: 65px 99px 95px 61px;
   box-shadow:   3px 3px 40px 3px rgba(216, 216, 216, 0.44);
 }
  footer{
