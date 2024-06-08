@@ -33,13 +33,11 @@
   --app4: #ffe7fb;
   /**second page */
   --ipsumtitle: 45px;
-  --ipsumfw: 600;
-  --ipsumfw: 400;
-  --appfw:500;
-  --appclr:#2E0D64;
+
+  --appclr: #2e0d64;
   --loremlh: 68px;
   --loremclr: #252525;
-  --kodexclr:#585858;
-  --breakclr: #C4C4C4;
-  --kodextitleLH:48px;
+  --kodexclr: #585858;
+  --breakclr: #c4c4c4;
+  --kodextitleLH: 48px;
 }

@@ -1,0 +1,91 @@
+header {
+  border-bottom: 0.7px solid #c4c4c4;
+}
+body {
+  font-family: Poppins;
+  padding-bottom: 300px;
+}
+.serviceHero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.backgroundhero {
+  height: 610px;
+  background-color: var(--heroclr);
+  margin-bottom: 100px;
+  padding-top: 78px;
+}
+.speaker {
+  background-color: var(--clr);
+  width: 135px;
+  height: 135px;
+  border-radius: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.serviceHero :nth-child(2) {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  margin-top: 22px;
+}
+.markedtext {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  color: var(--mainclr);
+}
+.serviceHero :nth-child(3) {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 31.5px;
+  width: 25%;
+  color: #696969;
+  margin-top: 18px;
+}
+/* apps */
+.appbackgr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  width: 91px;
+  height: 90px;
+}
+.bgprpl {
+  background-color: var(--app3);
+}
+.bgpink {
+  background-color: var(--app4);
+}
+.bgred {
+  background-color: var(--app1);
+}
+.bgblue {
+  background-color: var(--app2);
+}
+.apptitle {
+  font-size: var(--wdgtwht);
+  font-weight: 500;
+  line-height: 44.48px;
+}
+.appdescrb {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28.46px;
+  color: #797979;
+}
+.aligning{
+  display: flex;
+}
+.gap{
+  gap: 39px;
+}
+.width{
+  width: 70%;
+}
+
