@@ -4,6 +4,7 @@ header {
 body {
   font-family: Poppins;
   padding-bottom: 300px;
+  position: relative;
 }
 .serviceHero {
   display: flex;
@@ -13,10 +14,11 @@ body {
   align-items: center;
 }
 .backgroundhero {
-  height: 610px;
+  height: 743px;
   background-color: var(--heroclr);
   margin-bottom: 100px;
   padding-top: 78px;
+  
 }
 .speaker {
   background-color: var(--clr);
@@ -43,7 +45,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 31.5px;
-  width: 25%;
+  width: 28%;
   color: #696969;
   margin-top: 18px;
 }
@@ -79,13 +81,36 @@ body {
   line-height: 28.46px;
   color: #797979;
 }
-.aligning{
+.aligning {
   display: flex;
 }
-.gap{
+.gap {
   gap: 39px;
 }
-.width{
+.width {
   width: 70%;
 }
-
+.ml {
+  margin-bottom: 72px;
+}
+.borders {
+  box-shadow: 0px 4px 114px 0px #00000017;
+}
+.padding {
+  padding: 64px 82px 84px 62px;
+}
+.w{
+  width: 1203px;
+}
+/* .m{
+ margin-left: auto;
+ margin-right: auto;
+} */
+.allApps{
+  position: absolute;
+  right: 67px;
+  top: 650px;
+}
+.bgwh{
+  background-color: var(--clr);
+}
