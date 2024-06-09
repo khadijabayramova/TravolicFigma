@@ -1,0 +1,52 @@
+body {
+  position: relative;
+  font-family: Poppins;
+}
+.socials4 {
+  top: 120px;
+  right: 70px;
+}
+
+.collaborate {
+  margin-top: 42px;
+}
+.collaborate :nth-child(1) {
+  background-color: var(--prflcolor);
+  width: 77px;
+  height: 77px;
+  border-radius: 50%;
+  margin-bottom: 16px;
+}
+.collaborate :nth-child(2) {
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 76.5px;
+  margin-bottom: 15px;
+}
+.collaborate :nth-child(3) {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 37.9px;
+  color: #777777;
+  width: 437px;
+}
+.map_sctn {
+  display: flex;
+  margin-bottom: 60px;
+  margin-top: 89px;
+  gap: 128px;
+  justify-content: center;
+}
+.MAP :nth-child(2) {
+  right: 420px;
+  top: 499px;
+}
+.MAP :nth-child(3) {
+  right: 440px;
+  top: 517px;
+}
+
+/** info */
+
+
+
