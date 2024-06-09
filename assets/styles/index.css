@@ -42,6 +42,11 @@ header {
   cursor: pointer;
   transition: all 1s;
 }
+.btn_nav:hover{
+  background-color: var(--clr);
+  color: var(--mainclr);
+  border: 1px solid var(--mainclr);
+} 
 .btn_nav a {
   text-decoration: none;
 }
@@ -103,6 +108,7 @@ header {
   height: 51px;
   border-radius: 10px;
 }
+
 .view_btn {
   background-color: var(--clr);
   font-size: var(--navsize);
