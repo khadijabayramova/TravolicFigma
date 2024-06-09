@@ -3,14 +3,21 @@ header {
 }
 body {
   font-family: Poppins;
-  padding-bottom: 300px;
-  /* position: relative; */
-  width: 100%;
+  position: relative;
+ 
 }
 .html,
 body {
   overflow-x: hidden;
   width: 100%;
+}
+.btn_nav:hover{
+background-color: var(--clr);
+color: var(--mainclr);
+border: 1px solid var(--mainclr);
+}
+.btn_nav:active{
+  opacity: 0.8;
 }
 .serviceHero {
   display: flex;
@@ -182,7 +189,7 @@ body {
   border-radius: 10px;
   border: 1px solid #1090cb;
   color: var(--mainclr);
-  transition: all 0.17s;
+  transition: all 1s;
   cursor: pointer;
   margin-top: 55px;
 }
@@ -241,19 +248,20 @@ body {
   top: 585px;
 }
 .vector1 {
-  top: 2170px;
+  top: 214px;
+  top: 2148px;
 }
 .vector2 {
-  top: 1815px;
+  top: 1800px;
   left: 130px;
 }
 .bell2 {
   right: 175px;
-  top: 1852px;
+  top: 1835px;
 }
 .vector3 {
   right: 175px;
-  top: 1859px;
+  top: 1851px;
 }
 .projectT {
   font-size: 23px;
